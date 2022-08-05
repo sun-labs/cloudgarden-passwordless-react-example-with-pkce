@@ -26,7 +26,7 @@ function Layout() {
     <div>
       <ul>
         <li>
-          <Link to="/">Public Page</Link>
+          <Link to="/">Login Page</Link>
         </li>
         <li>
           <Link to="/claim">Claim code</Link>
